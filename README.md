@@ -1,3 +1,5 @@
+no-maintenance-intended
+
 # PI Face Digital
 
 This package contains a nodejs library and command line tool for the pifacedigital board.
